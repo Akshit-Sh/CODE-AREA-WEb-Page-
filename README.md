@@ -1,2 +1,2 @@
 # html-WEBDEVLOPMENT-project
-made a web page using HTML and CSS.(under construction)
+Made a full Respnsive website using HTML and CSS.(under construction)
