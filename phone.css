@@ -1,0 +1,52 @@
+#box{
+    flex-direction: column;
+}
+
+#navbar{
+    flex-direction: column;
+}
+
+.thought{
+    height: 110px;
+    flex-direction: column;
+    margin-bottom: 172px;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 10px;
+}
+
+.btn input {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 0.5em;
+}
+
+#clients img {
+    height: 76px;
+    width: 67px;
+    padding: 8px;
+}
+
+li {
+    margin: 25px;
+    font-size: 15px;
+    margin-left: 27px;
+}
+
+ul{
+    flex-direction: column;
+}
+
+.heading {
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    margin: 60px;
+    text-decoration: underline;
+    transition: all;
+    transition-duration: 1s;
+}
